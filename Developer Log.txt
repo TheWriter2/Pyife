@@ -1,0 +1,9 @@
+Day 1 (??):
+
+Made the main.py file and added the Person and World classes, still experimenting with text output.
+
+Day 2 (14/05/2025):
+
+Text lines are now stored on the TextData class, and the rendering process is in the Rendering class,
+this should allow me to abstract the rendering process into any context by just making different variations
+of the Renderer class.
